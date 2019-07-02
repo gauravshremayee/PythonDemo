@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-file=open("/users/apple/Downloads/etc/server.cfg")
+file=open("etc/server.cfg")
 
 
 #first open file
