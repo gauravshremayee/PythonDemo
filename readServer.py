@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-file=open("etc/server.cfg")
+file=open("/var/lib/jenkins/workspace/GitBuild/etc/server.cfg")
 
 
 #first open file
